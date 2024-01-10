@@ -15,9 +15,18 @@
 
 ### Решение 1
   
-Ссылка на коммит:
+Cкриншоты с настройками проекта:
   
-[https://github.com/bodra84/8-01_z01/commit/eac46a8](https://github.com/bodra84/8-01_z01/commit/eac46a8a9aec194e9d060d1b349c938c2888acd2)
+![Скриншот 1](https://github.com/bodra84/8-02-hw/blob/main/img/1_1.png)
+![Скриншот 2](https://github.com/bodra84/8-02-hw/blob/main/img/1_2.png)
+
+  
+Cкриншоты c результатами выполнения сборки:
+  
+![Скриншот 3](https://github.com/bodra84/8-02-hw/blob/main/img/1_3.png)
+![Скриншот 4](https://github.com/bodra84/8-02-hw/blob/main/img/1_4.png)
+![Скриншот 5](https://github.com/bodra84/8-02-hw/blob/main/img/1_5.png)
+![Скриншот 6](https://github.com/bodra84/8-02-hw/blob/main/img/1_6.png)
 
 ---
 
