@@ -42,10 +42,16 @@ Cкриншоты c результатами выполнения сборки:
 ---
 
 ### Решение 2
+
   
-Ссылка на коммит:
+Cкриншот с настройками проекта:
   
-[https://github.com/bodra84/8-01_z01/commit/627e595](https://github.com/bodra84/8-01_z01/commit/627e5950df365bb1d25408d3fcfe42b6b3a19ae6)
+![Скриншот 1](https://github.com/bodra84/8-02-hw/blob/main/img/2_1.png)
+
+  
+Cкриншот c результатами выполнения сборки:
+  
+![Скриншот 3](https://github.com/bodra84/8-02-hw/blob/main/img/2_2.png)
 
 ---
 
