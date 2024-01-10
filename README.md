@@ -69,9 +69,16 @@ Cкриншот c результатами выполнения сборки:
 ---
 
 ### Решение 3
+
+Cкриншоты с настройками проекта:
   
-Ссылка на граф коммитов:
+![Скриншот 1](https://github.com/bodra84/8-02-hw/blob/main/img/3_1.png)
+![Скриншот 2](https://github.com/bodra84/8-02-hw/blob/main/img/3_2.png)
+
   
-[https://github.com/bodra84/8-01_z01/network](https://github.com/bodra84/8-01_z01/network/)
+Cкриншоты c результатами выполнения сборки:
+  
+![Скриншот 3](https://github.com/bodra84/8-02-hw/blob/main/img/3_3.png)
+![Скриншот 4](https://github.com/bodra84/8-02-hw/blob/main/img/3_4.png)
 
 ---
